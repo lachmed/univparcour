@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/univparcour/static/css/main.f06d611c.chunk.css",
+    "main.js": "/univparcour/static/js/main.607d3c2f.chunk.js",
+    "main.js.map": "/univparcour/static/js/main.607d3c2f.chunk.js.map",
+    "runtime-main.js": "/univparcour/static/js/runtime-main.d03ec0bf.js",
+    "runtime-main.js.map": "/univparcour/static/js/runtime-main.d03ec0bf.js.map",
+    "static/js/2.1a3d999f.chunk.js": "/univparcour/static/js/2.1a3d999f.chunk.js",
+    "static/js/2.1a3d999f.chunk.js.map": "/univparcour/static/js/2.1a3d999f.chunk.js.map",
+    "static/js/3.610a67da.chunk.js": "/univparcour/static/js/3.610a67da.chunk.js",
+    "static/js/3.610a67da.chunk.js.map": "/univparcour/static/js/3.610a67da.chunk.js.map",
+    "index.html": "/univparcour/index.html",
+    "static/css/main.f06d611c.chunk.css.map": "/univparcour/static/css/main.f06d611c.chunk.css.map",
+    "static/js/2.1a3d999f.chunk.js.LICENSE.txt": "/univparcour/static/js/2.1a3d999f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d03ec0bf.js",
+    "static/js/2.1a3d999f.chunk.js",
+    "static/css/main.f06d611c.chunk.css",
+    "static/js/main.607d3c2f.chunk.js"
+  ]
+}
